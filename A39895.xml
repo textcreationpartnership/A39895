@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An echo, or, The trumpeters triumph shewing the originall of a trumpet, from the alpha of Genesis to the omega of the Revelation very necessary and fit to be perused in these sad and mournfull times of all that wish wel to the peace of Ierusalem / written by E.F.</title>
+            <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+         </titleStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39895</idno><idno type="EEBO-CITATION">13743692</idno>
+  <idno type="VID">101684</idno>
+  <idno type="EEBO-PROQUEST">2240886858</idno>
+  
+            <idno type="STC">Wing F1460</idno>
+            <idno type="STC">ESTC R9354</idno>
+            <idno type="OCLC">13743692</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An echo, or, The trumpeters triumph shewing the originall of a trumpet, from the alpha of Genesis to the omega of the Revelation very necessary and fit to be perused in these sad and mournfull times of all that wish wel to the peace of Ierusalem / written by E.F.</title>
+                  <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coles ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Written by Edward Ford.  Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101684:1"/>
+            <pb facs="tcp:101684:1"/>
+            <p>AN ECHO, OR, The Trumpeters Triumph: Shewing the Originall of a Trumpet, from the Alpha of Genesis to the Omega of the Revelation. Very necessary and fit to be perused in these sad and mournfull Times; of all that wish wel to the Peace of <hi>Ierusalem.</hi>
+            </p>
+            <p>
+               <hi>Written by</hi> E. F.</p>
+            <q>
+               <bibl>Hosea 8. 1.</bibl>
+               <hi>Set the Trumpet to thy mouth.</hi>
+            </q>
+            <figure/>
+            <q>
+               <bibl>1 Cor. 14. 8.</bibl>
+               <hi>If the Trumpet give an uncertaine sound, who shall prep<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> himselfe for the battell?</hi>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenced and entred according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> in the Old-baylie. 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101684:2"/>
+            <pb facs="tcp:101684:2"/>
+            <head>To the Right Honourable, ALGERNON Earle of <hi>Northumberland,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He severall ties and deepe en<g ref="char:EOLhyphen"/>gagements that have sometime combin'd me to your Honour (have in a manner) inforced me to present and humbly dedicate my little Mannuall Echo, or Silver-Trumpet, unto your knowing view; I must confesse, I tooke it out of your owne study, I meane the Word of God; which how you doe affect, unto the world is knowne apparently: witnesse your valour and couragi<g ref="char:EOLhyphen"/>ous Acts in still resisting those that have at<g ref="char:EOLhyphen"/>tempted for to suppresse the holy and all sa<g ref="char:EOLhyphen"/>ving Word of God. But Sir, thinke it not strange that I present you with a gift which every day, if so you please, you freely may
+<pb facs="tcp:101684:3"/> command; for though the irregularity and mis<g ref="char:EOLhyphen"/>demeanour of too many has now of late some<g ref="char:EOLhyphen"/>thing eclipst &amp; blemisht the quality, God at the first ordained it for a good &amp; better end; as you may read in very many places of the Scripture. I doe remember a pregnant story in the third of <hi>Daniel,</hi> where <hi>Nebuchadnezzar</hi> dedicates his Golden Image in the plain of <hi>Dura,</hi> that when the Princes, the Governours, and Captaines, the Judges, the Treasurers, the Counsellors, the Sheriffes, and all the Rulers of the Provinces were punctually assembled: presently after the Heralds voyce there was the Cornet, Flute, Harpe, Sackbut, Psaltery, Dulcimer, and other sorts of Musicke, but not a Trumpet mentio<g ref="char:EOLhyphen"/>ned; the reason (I conceive) was this, God would not have so good an Instrument to be seene, or sound before so bad an Idoll. But I grow tedious; yet ere I part, pray give me leave to say to you as once St. <hi>Peter</hi> said unto the Cripple which sat at the Temple of the gate called <hi>Beautifull,</hi> Silver and Gold, saies <hi>Peter</hi> have I none: so may I really affirme to you; No Golden lines, nor Silver straines have I, to linke your candid, wise, and solid judgement to my most weake and imbecill harsh Quill; but such as 'tis, you are welcome to, as was the Dove into the Arke of <hi>Noah.</hi>
+            </p>
+            <p>Now, the King of <hi>Jacob</hi> blesse you, and grant when <hi>Sodome</hi> is on fire you still may have a
+<pb facs="tcp:101684:3"/>
+               <hi>Zoar</hi> to fly to; when <hi>Egypt</hi> is encumbred sore with famine, a <hi>Joseph</hi> still to be your faithfull friend; when <hi>Saul,</hi> or persecution doth assaile you, a <hi>Jonathan</hi> or <hi>Paul</hi> still neere to help you; and when commotions and strange opinions of the true Religion shall even shake the World, that then, even then, you still may have a Synagogue of our sweet Saviours for your Sanctuary:</p>
+            <closer>So prayeth, and ever shall
+<signed>your most endeared servant, ED. FORD.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:101684:4"/>
+            <lg>
+               <l>
+                  <hi>ANd now great God, I want thy sacred ayd;</hi>
+               </l>
+               <l>
+                  <hi>For here the learn'd may swim, the Lamb may wade.</hi>
+               </l>
+               <l>
+                  <hi>O Lamb of God vouchsafe for to distill</hi>
+               </l>
+               <l>
+                  <hi>A little of thy knowledge to my Quill;</hi>
+               </l>
+               <l>
+                  <hi>And grant I may not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bove my reach aspire,</hi>
+               </l>
+               <l>
+                  <hi>But where I understand not, there admire.</hi>
+               </l>
+               <l>
+                  <hi>And though that</hi> Esau <hi>hunts, and takes the paines,</hi>
+               </l>
+               <l>
+                  <hi>Yet Lord, for once let</hi> Jacob <hi>reap the gaines,</hi>
+               </l>
+               <l>
+                  <hi>So shall my labour, that doth chiefly tend</hi>
+               </l>
+               <l>
+                  <hi>Ʋnto thy honour, have a happy end.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101684:4"/>
+            <head>THE Silver Trumpet.</head>
+            <head type="sub">The Feast of the Lord, or the Lords Feast: like<g ref="char:EOLhyphen"/>wise his institution at the Feast of Trum<g ref="char:EOLhyphen"/>pets▪ lastly, his holy words, as followeth:</head>
+            <p>
+               <seg rend="decorInit">A</seg>Nd the Lord spake unto <hi>Moses,</hi> saying, Speak unto the children of <hi>Israel,</hi> say<g ref="char:EOLhyphen"/>ing▪ In the seventh moneth, in the first day of the moneth, shall yee have a Sabbath, a memoriall of blowing the Trumpets, an holy Convoca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>on, <hi>Leviticus</hi> 23. 24.</p>
+            <lg>
+               <l>
+                  <hi>The first thing I invite you to, ye see,</hi>
+               </l>
+               <l>
+                  <hi>Is to a Feast, and holy company;</hi>
+               </l>
+               <l>
+                  <hi>The feast no doubt you'l like, but then each one</hi>
+               </l>
+               <l>
+                  <hi>Must visit the holy Convocation.</hi>
+               </l>
+               <l>
+                  <hi>For my part, I my selfe am but a guest,</hi>
+               </l>
+               <l>
+                  <hi>Yet I dare say, Y'are welcome to the Feast.</hi>
+               </l>
+            </lg>
+            <div type="part">
+               <head>The use of the Silver Trumpets.</head>
+               <p>And the Lord spake unto <hi>Moses,</hi> saying, Make thee
+<pb n="2" facs="tcp:101684:5"/> two Trumpets of Silver, of a whole peece shalt thou make them, for the calling of the Assembly, and for the journeying of the Camps; and when they shall blow with them, all the Assembly shall assemble them<g ref="char:EOLhyphen"/>selves unto thee at the doore of the Tabernacle of the Congregation; and if they blow but with one Trum<g ref="char:EOLhyphen"/>pet, then the Princes which are heads of the thousands of <hi>Israel</hi> shall gather themselves unto thee: when you blow an alarme, then the Camps that lye on the East parts shall goe forward: when ye blow an alarme the second time, then the Camps that lye on the South side shall take their journeys; they shall blow an alarme for their journeys: but when the Congregation is to be gathered together ye shall blow, but ye shall not sound an alarme.</p>
+               <p>And the sonnes of <hi>Aaron</hi> the Priests shall blow with the Trumpets, and they shall be to you for an ordinance for ever thorowout your generations; and if you goe to war in your land against the enemy that oppresseth you, then ye shall blow an alarme with the Trumpets, and ye shall be remembred before the Lord your God, and ye shall be saved from your enemies, <hi>Numb.</hi> 10. 2, 3, 4 9.</p>
+               <lg>
+                  <l>
+                     <hi>Here is a gracious promise l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rge and free,</hi>
+                  </l>
+                  <l>
+                     <hi>Given by the King of Kings owne Majesty;</hi>
+                  </l>
+                  <l>
+                     <hi>But doth the Lord affect a Trump so deare?</hi>
+                  </l>
+                  <l>
+                     <hi>So by the circumstances doth appeare.</hi>
+                  </l>
+                  <l>
+                     <hi>Then give us grace, good God, we may alwayes</hi>
+                  </l>
+                  <l>
+                     <hi>Sound as they doe in Heaven, thy land and praise.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The offering at the Feast of Trumpets.</head>
+               <p>And in the seventh moneth, on the first day of the moueth, ye shall have an holy Convocation, yee shall
+<pb n="3" facs="tcp:101684:5"/> doe no servile work; it is a day of blowing the Trum<g ref="char:EOLhyphen"/>pets unto you, <hi>Numb.</hi> 29. 1.</p>
+               <lg>
+                  <l>
+                     <hi>And here the Lord God is to us so kinde,</hi>
+                  </l>
+                  <l>
+                     <hi>That he doth put us once againe in minde</hi>
+                  </l>
+                  <l>
+                     <hi>That we observe and keep the moneth and day,</hi>
+                  </l>
+                  <l>
+                     <hi>But what to doe? not worke, but fast and pray.</hi>
+                  </l>
+                  <l>
+                     <hi>But we may sound, I hope; yes that I grant,</hi>
+                  </l>
+                  <l>
+                     <hi>So you observe Gods holy Covenant.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Lords directions to <hi>Ioshua,</hi> how and in what manner he should besiege and obtaine <hi>Iericho.</hi>
+               </head>
+               <p>And the Lord said unto <hi>Joshua,</hi> Seven Priests shall beare before the Arke seven Trumpets of rams hornes, and the seventh day yee shall compasse the City seven times, and the Priests shall blow with the Trumpets; and it shall come to passe, that when they shall make a long blast, and when yee shall heare the sound of the Trumpet, all the people shall shout with a great shout, and the wall of the City shall fall down fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, and the people shall ascend up every man straight before him. And <hi>Joshua</hi> the sonne of <hi>Nun</hi> called the Priests, and said unto them, Take up the Arke of the Covenant, and let seven Priests beare seven Trumpets of rams horns before the Arke of God. And it came passe, when <hi>Ioshua</hi> had spoken unto the people, that the seven Priests bearing the seven Trumpets of rams horns passed on before the Lord, and blew with the Trumpets, and the Arke of the Covenant of the Lord followed them, and the armed men went before the Priests that blew with the Trumpets, and the rereward came after the Arke, the Priests going on and blowing with the Trumpets. And it came to passe on the seventh time, when the Priests
+<pb n="4" facs="tcp:101684:6"/> blew with the Trumpets, <hi>Ioshua</hi> said unto the people, Shout, for the Lord hath given you the City; so the people shouted when the Priests blew with the Trum<g ref="char:EOLhyphen"/>pets. And it came to passe, when the people heard the sound of the Trumpet, that the people shouted with a great shout, that the wall fell downe flat, so that the people went up into the City every man straight before him, and the people took the City, <hi>Iosh.</hi> 6. 3, 4, 5, <hi>&amp;c.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>And thus you see what aid our Maker sends</hi>
+                  </l>
+                  <l>
+                     <hi>To those that love him, and respect his friends.</hi>
+                  </l>
+                  <l>
+                     <hi>Likewise you see what shifts the Priests did make,</hi>
+                  </l>
+                  <l>
+                     <hi>That they this City might besiege and take.</hi>
+                  </l>
+                  <l>
+                     <hi>Then Trumpets take, your Trumpets give one sound,</hi>
+                  </l>
+                  <l>
+                     <hi>For joy that</hi> Jericho <hi>has kist the ground.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Gideon</hi> his stratagem of Trumpets and Lamps in pitchers.</head>
+               <p>And <hi>Gideon</hi> divided the three hundred men into three companies, and he put a Trumpet into every mans hand with empty Pitchers, and Lamps within the Pitchers; and he said unto them, Look on me, and doe likewise; and behold, when I come unto the outside of the Camp, it shall be, that as I doe so shall ye doe. When I blow the Trumpet, and all that are with me, then blow ye the Trumpets on every side of all the Campe, and say, The sword of the Lord and of <hi>Gideon.</hi> So <hi>Gideon</hi> and the three hundred men that were with him, came unto the outside of the Camp in the beginning of the middle watch, and they had but newly set the wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch, and they blew the Trumpets and brake the Pitchers that were in their hands. And the three Companies blew their Trumpets, and brake the Pitchers, and held the Lamps in their left hands, and their Trumpets in their right
+<pb n="5" facs="tcp:101684:6"/> hands to blow withall; and they cryed, The sword of the Lord and of <hi>Gideon.</hi> And they stood every man in his place round about the Campe, and all the host ran, and cried, and fled; and the three hundred blew the T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umpets, and the Lord set every mans sword against his fellow, even thorowout all the host, and the host fled even to <hi>Betshittah</hi> in <hi>Zererath,</hi> and to the border of</p>
+               <lg>
+                  <l>
+                     <hi>Abel-meholah</hi> unto <hi>Tabbath, Judg.</hi> 7. 16. 17. 18.</l>
+                  <l>
+                     <hi>And thus you see how</hi> Gideons <hi>stratagem,</hi>
+                  </l>
+                  <l>
+                     <hi>With the Lords aid and bare three hundred men</hi>
+                  </l>
+                  <l>
+                     <hi>Has foil'd his foes, and how the stout Prince</hi> Zeeb</l>
+                  <l>
+                     <hi>Is brought him captive, with the Prince</hi> Oreb:</l>
+                  <l>
+                     <hi>O that these things in memory might stand,</hi>
+                  </l>
+                  <l>
+                     <hi>Like marble statues cleane throwout the land.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>At <hi>Abners</hi> motion <hi>Ioab</hi> sounds a retreat.</head>
+               <p>Then <hi>Abner</hi> called to <hi>Joab,</hi> and said, Shall the sword devoure for ever? knowest thou not that it will be bit<g ref="char:EOLhyphen"/>ternesse in the latter end? How long shall it be then ere thou bid the people returne from following their b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>thren? And <hi>Joab</hi> said, As God liveth, unlesse thou hadst spoken, surely then in the morning the people had gone up, every one from following his brother. So <hi>Io<g ref="char:EOLhyphen"/>ab</hi> blew a Trumpet, and all the people stood still and pursued after <hi>Israel</hi> no more, neither fought they any more, 2 <hi>Sam.</hi> 2. 26 27 28.</p>
+               <lg>
+                  <l>
+                     <hi>Here we are at a stand, can goe no further,</hi>
+                  </l>
+                  <l>
+                     <hi>For</hi> Joabs <hi>sword has left to stay and murther;</hi>
+                  </l>
+                  <l>
+                     <hi>And to say truth indeed, it is no wonder,</hi>
+                  </l>
+                  <l>
+                     <hi>For when God will, he knaps the speare asunder.</hi>
+                  </l>
+                  <l>
+                     <hi>But if we sin, God sure will wars increase,</hi>
+                  </l>
+                  <l>
+                     <hi>Forbeare but sin, and then he sends a Peace.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:101684:7"/>
+               <head>
+                  <hi>David</hi> removes the Arke with great joy, and with the sound of the Trumpet.</head>
+               <p>And <hi>David</hi> danced before the Lord with all his might, and <hi>David</hi> was girded with a linen Ephod. So <hi>David</hi> and all the house of Israel brought up the Arke of the Lord with shouting, and with the sound of the Trumpet.</p>
+               <lg>
+                  <l>
+                     <hi>And thus you see by th' sequell of the story,</hi>
+                  </l>
+                  <l>David <hi>is merry, merry to Gods glory;</hi>
+                  </l>
+                  <l>
+                     <hi>Which when that</hi> Michall <hi>saw with halfe an eye,</hi>
+                  </l>
+                  <l>
+                     <hi>She did despise him, though she knew not why.</hi>
+                  </l>
+                  <l>
+                     <hi>But what was her reward? by Gods decree,</hi>
+                  </l>
+                  <l>
+                     <hi>Subject till death unto sterility.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>David</hi> by the advice of <hi>Zadok</hi> the Priest, and <hi>Nathan</hi> the Prophet, anointeth his son King over Israel.</head>
+               <p>And King <hi>David</hi> said, Call me <hi>Zadok</hi> the Priest and <hi>Nathan</hi> the Prophet, and <hi>Benaiah</hi> the sonne of <hi>Iehoiada,</hi> and they came before the King; the King also said unto them, Take with you the servants of your Lord, and cause <hi>Solomon</hi> my sonne to ride on my owne mule, and bring him downe to <hi>Gihon,</hi> and let <hi>Zadok</hi> the Priest and <hi>Nathan</hi> the Prophet anoint him there King over <hi>Israel,</hi> and blow ye with the Trumpets, and say, God save King <hi>Solomon, 1 Kings</hi> 1. 32, 33, 34.</p>
+               <lg>
+                  <l>
+                     <hi>And now has</hi> David, <hi>whose deserts far ring,</hi>
+                  </l>
+                  <l>
+                     <hi>Seene his sonne</hi> Solomon <hi>anointed King;</hi>
+                  </l>
+                  <l>
+                     <hi>God give him joy, and may he happy raigne,</hi>
+                  </l>
+                  <l>
+                     <hi>Till such another Prince be borne againe.</hi>
+                  </l>
+                  <pb n="7" facs="tcp:101684:7"/>
+                  <l>
+                     <hi>Have I not my wish, so saies Master</hi> Quarles,</l>
+                  <l>
+                     <hi>And I believe him, long live good King</hi> Charles.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>David</hi> fetches home the Arke with joy and great solemnity, and with the sound of a Trumpet.</head>
+               <p>And <hi>David</hi> and all <hi>Israel</hi> played before God with all their might, and with singing and with Harpes, and with Psalterys, with Timbrels, and with Cimbals, and with the sound of the Trumpet, 1 <hi>Chro.</hi> 13. 8.</p>
+               <lg>
+                  <l>
+                     <hi>And thus has</hi> David <hi>brought the Arke you see,</hi>
+                  </l>
+                  <l>
+                     <hi>With passing joy, and great solemnity,</hi>
+                  </l>
+                  <l>
+                     <hi>But here's a chance, the Lord doth</hi> Uzza <hi>smite,</hi>
+                  </l>
+                  <l>
+                     <hi>Because he went to hold the Arke upright.</hi>
+                  </l>
+                  <l>
+                     <hi>Lord guide my faith, preserve it from the foe,</hi>
+                  </l>
+                  <l>
+                     <hi>And then my Arke shall never overthrow.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Davids</hi> preparation for the Arke, with the names of those that did sound before it.</head>
+               <p>And <hi>Shebaniah</hi> and <hi>Iehoshaphat,</hi> and <hi>Nathaniel,</hi> and <hi>Am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sai,</hi> and <hi>Zachariah,</hi> and <hi>Benaiah</hi> and <hi>Eliezer</hi> the Priests did blow with the Trumpets before the Arke of God. And <hi>Obed-Edom</hi> and <hi>Iehiah</hi> were door-keepers for the Arke of God, 1 <hi>Chro.</hi> 15. 24.</p>
+               <lg>
+                  <l>
+                     <hi>And thus behold the Arke is safely come</hi>
+                  </l>
+                  <l>
+                     <hi>To</hi> Davids <hi>house, and left</hi> Obed-Edom.</l>
+                  <l>
+                     <hi>Yet hath he still of Gods Arke such a care,</hi>
+                  </l>
+                  <l>
+                     <hi>That none but Priests and Levites must it beare.</hi>
+                  </l>
+                  <l>
+                     <hi>And sure our soules can nee'r arrive to thee,</hi>
+                  </l>
+                  <l>
+                     <hi>But thorough Christ, his Word and ministry.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:101684:8"/>
+               <head>The solemne induction of the Arke into the Oracle.</head>
+               <p>And it came to passe, when the Priests were come out of the holy place, for all the Priests that were present were sanctified, and did not then wait by course. Also the Levites which were the singers; all of them of <hi>A<g ref="char:EOLhyphen"/>saph,</hi> of <hi>Heman,</hi> of <hi>Ieduthun,</hi> with their sonnes, and their brethren, bei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g arrayed in white Linnen, having Cim<g ref="char:EOLhyphen"/>bals and Psalteries and Harpes, stood at the East end of the Altar, and with them an hundred and twenty Priests sounding with Trumpets; it c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me even to passe as the Trumpeters and Singers were as one, to make one sound to be heard, in praising and thanking the Lord: and when they lift up their voyces with their Trumpets and Cimbals and instruments of musicke, and praised the Lord, saying, For he is good, for his mercy endureth for ever; that then the house was filled with a Cloud, even the house of the Lord, 2 <hi>Chro.</hi> 5. 12, 13.</p>
+               <lg>
+                  <l>
+                     <hi>Behold in holy Scripture 'tis decreed</hi>
+                  </l>
+                  <l>
+                     <hi>That there shall be a heavenly noyse indeed,</hi>
+                  </l>
+                  <l>
+                     <hi>The men of</hi> A saph, Heman, Jeduthun</l>
+                  <l>
+                     <hi>Ioyne all together, seeming all but one.</hi>
+                  </l>
+                  <l>
+                     <hi>Then let us now abandon all our toyes,</hi>
+                  </l>
+                  <l>
+                     <hi>And help to better, if we can the noyse.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Solomons</hi> solemne Sacrifice with Trumpets.</head>
+               <p>And the Priests waited on their Offices, the Levites also with instruments of Musique of the Lord, which <hi>David</hi> the King had made to praise the Lord, because his mercy indureth for ever; when <hi>David</hi> praised by the ministery, and the Priests sounded Trumpets before them, and all <hi>Israel</hi> stood, 2 <hi>Chro.</hi> 7. 6.</p>
+               <lg>
+                  <pb n="9" facs="tcp:101684:8"/>
+                  <l>
+                     <hi>Here is a heavenly Maxim for us all,</hi>
+                  </l>
+                  <l>
+                     <hi>To wait on that which God hath pleas'd to call</hi>
+                  </l>
+                  <l>
+                     <hi>You or me to; therefore pray heartily,</hi>
+                  </l>
+                  <l>
+                     <hi>Still use but not abuse the quality;</hi>
+                  </l>
+                  <l>
+                     <hi>Seeing the Lord a Trumpet did intend</hi>
+                  </l>
+                  <l>
+                     <hi>Not to a base, but honourable end.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Jehoiada</hi> restores the worship of God, and Crownes <hi>Ioash</hi> King.</head>
+               <p>Now when <hi>Athaliah</hi> heard the noyse of the people running and praising the King, she came to the people into the House of the Lord; and she looked, and behold the King stood at his pillar, at the entering in, and the Princes, and the Trumpets by the King, and all the people of the Land rejoyced, and sounded with Trum<g ref="char:EOLhyphen"/>pets, also the singers with instruments of Musique, and such as taught to sing praise; then <hi>Athaliah</hi> rent her clothes and said, Treason, treason, 2 <hi>Chro.</hi> 23, 12, 13.</p>
+               <lg>
+                  <l>
+                     <hi>Loe here</hi> Jehoiada <hi>doth</hi> Joash <hi>bring,</hi>
+                  </l>
+                  <l>
+                     <hi>And in great state and honour Crownes him King,</hi>
+                  </l>
+                  <l>Athaliah <hi>sees it, and void of reason,</hi>
+                  </l>
+                  <l>
+                     <hi>Envies his happinesse, and cries out Treason.</hi>
+                  </l>
+                  <l>
+                     <hi>But what, I pray, hereafter did ensue her?</hi>
+                  </l>
+                  <l>
+                     <hi>They had her forth Gods house, &amp; there they slew her.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Levites very forward to help the Priests, both with their Trumpets, and at the Of<g ref="char:EOLhyphen"/>fering too.</head>
+               <p>And the Levites stood with the instruments of <hi>David,</hi> and the Priests with the Trumpets, and <hi>Hezekiah</hi> com<g ref="char:EOLhyphen"/>manded to offer the burnt Offering upon the Altar; and when the burnt Offering began, the Song of the Lord
+<pb n="10" facs="tcp:101684:9"/> also began with the Trumpets, and with the Instru<g ref="char:EOLhyphen"/>ments ordained by <hi>David</hi> King of <hi>Israel.</hi> And all the congregation worshipped, and the Singers sung, and the Trumpeters sounded, and all this continued untill the burnt Offering was finished, 2 <hi>Chro.</hi> 29. 26, 27, 28.</p>
+               <lg>
+                  <l>
+                     <hi>And here I doe invite your hearts and eyes</hi>
+                  </l>
+                  <l>
+                     <hi>To looke on</hi> Hezekiah's <hi>sacrifice.</hi>
+                  </l>
+                  <l>
+                     <hi>But alas here I am lost to thinke and see,</hi>
+                  </l>
+                  <l>
+                     <hi>How forward they were, and how backward we.</hi>
+                  </l>
+                  <l>
+                     <hi>They offered Rams and Bullocks, as you heare,</hi>
+                  </l>
+                  <l>
+                     <hi>Let us for every such drop down a teare.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The foundation of the Temple laid with great joy and mourning.</head>
+               <p>And when the builders laid the foundation of the Temple of the Lord, they set the Priests in their apparell with triumph, and the Levites the sonnes of <hi>Asaph</hi> with Cimbals to praise the Lord, after the Ordinance of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> King of <hi>Israel, Ezra</hi> 3. 10.</p>
+               <lg>
+                  <l>
+                     <hi>Loe here the Priests in ample manner stand</hi>
+                  </l>
+                  <l>
+                     <hi>To sound, when</hi> Ezra <hi>pleaseth to command.</hi>
+                  </l>
+                  <l>
+                     <hi>In costly garments and in rich apparrell,</hi>
+                  </l>
+                  <l>
+                     <hi>After the custome once of</hi> Israel.</l>
+                  <l>
+                     <hi>The sonnes of</hi> Asaph <hi>too, with Cimbals laud</hi>
+                  </l>
+                  <l>
+                     <hi>The holy Name of our most holy God.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Nehemiah</hi> his exhortation to the Nobles, to the Rulers, and to the rest of the people.</head>
+               <p>For the builders every one had his Sword girded by his side, and so builded: and he that sounded the Trum<g ref="char:EOLhyphen"/>pet was by me; and I said unto the Nobles and to the Rulers, and to the rest of the people, the worke is great
+<pb n="11" facs="tcp:101684:9"/> and large, and we are separated upon the wall one farre from another. In what place therefore ye heare the sound of the Trumpet, resort yee thither unto us: our God shall fight for us, <hi>Nehe.</hi> 4. 18 19. 20.</p>
+               <lg>
+                  <l>
+                     <hi>Here it is easie for to be discern'd,</hi>
+                  </l>
+                  <l>
+                     <hi>That Military precepts may be learn'd,</hi>
+                  </l>
+                  <l>
+                     <hi>For this good Prophet doth direct a way,</hi>
+                  </l>
+                  <l>
+                     <hi>That whilst the foe doth flout, 'tis good to pray;</hi>
+                  </l>
+                  <l>
+                     <hi>Then though they ne'r so cunningly contrive,</hi>
+                  </l>
+                  <l>
+                     <hi>Their plots will never prosper, no nor thrive.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The dedication of the walls, with the Offices of the Priests and Levites appointed in the Temple.</head>
+               <p>And certaine of the Priests sonnes with Trumpets, namely, <hi>Zachariah</hi> the sonne of <hi>Ionathan,</hi> the sonne of <hi>Shemaiah,</hi> the sonne of <hi>Mattaniah,</hi> the sonne of <hi>Mi<g ref="char:EOLhyphen"/>caiah,</hi> the sonne of <hi>Zaccur,</hi> the sonne of <hi>Asaph.</hi> So stood the two Companies of them that gave thankes in the house of God; and I and the halfe of the Rulers with me, and the Priests, <hi>Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zachariah,</hi> and <hi>Hananiah,</hi> with Trumpets.</p>
+               <lg>
+                  <l>
+                     <hi>And thus the Priests and Levites as they'r able,</hi>
+                  </l>
+                  <l>
+                     <hi>Those that came up with godly</hi> Zerubbabel,</l>
+                  <l>
+                     <hi>Prepare to dedicate the walls, you see,</hi>
+                  </l>
+                  <l>
+                     <hi>With matchlesse and unheard of jubile,</hi>
+                  </l>
+                  <l>
+                     <hi>Likewise their sonnes, doe thinke them happy blest,</hi>
+                  </l>
+                  <l>
+                     <hi>That they may sound for joy amongst the rest.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Tob</hi> questioned about the strength of an Horse.</head>
+               <p>Hast thou given the Horse strength, hast thou clothed
+<pb n="12" facs="tcp:101684:10"/> his necke with thunder? Canst thou make him afraid as a Grashopper? the glory of his nostrils is terrible. He paweth in the valley and rejoyceth in his st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ength. He goeth on to meet the armed men. He mocketh at feare, and is not affrighted, neither turneth he backe from the Sword. The Quiver ratleth against him, the glittering Speare and the Sheild. He swalloweth the ground with fiercenesse and rage, neither beleeveth he that it is the sound of the Trumpet. He saith among the Trumpets, ha, ha, and he smelleth the battell afarre off, the thunder of the C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, and the shouting, <hi>Iob</hi> 39. 19, 20, 21, 22.</p>
+               <lg>
+                  <l>
+                     <hi>Here</hi> Job <hi>is question'd whether that he gave</hi>
+                  </l>
+                  <l>
+                     <hi>Strength to the Horse, that doth himselfe behave</hi>
+                  </l>
+                  <l>
+                     <hi>So stout and valiantly; for few or none</hi>
+                  </l>
+                  <l>
+                     <hi>Can daunt his heart, but hee'l goe bravely on.</hi>
+                  </l>
+                  <l>
+                     <hi>O Lord of Hosts, my poore Petition grant</hi>
+                  </l>
+                  <l>
+                     <hi>That in thy cause I prove as valiant.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>A grievous lamentation for the miseries of <hi>Judah.</hi>
+               </head>
+               <p>My bowels, my bowels, I am pained at the very heart; my heart maketh a noyse in me, I cannot hold my peace, because thou hast heard, O my soule, the sound of the Trumpet, the Alarm of warre. Destruction upon destruction is cried, for the whole Land is spoiled; so<g ref="char:EOLhyphen"/>dainly are my Tents spoiled, and my Curtaines in a moment. How long shall I see the Standard, and heare the sound of the Trumpet? <hi>Jerem.</hi> 4. 19, 20, 21.</p>
+               <lg>
+                  <l>
+                     <hi>And here good</hi> Jeremiah <hi>doth againe</hi>
+                  </l>
+                  <l>
+                     <hi>Grieve very much, and very much complaine;</hi>
+                  </l>
+                  <l>
+                     <hi>His reason's this, because he heares from sarre,</hi>
+                  </l>
+                  <l>
+                     <hi>The Trumpets sound, a symptom still of warre.</hi>
+                  </l>
+                  <pb n="13" facs="tcp:101684:10"/>
+                  <l>
+                     <hi>Thou should not we lament and grieve to heare</hi>
+                  </l>
+                  <l>
+                     <hi>Warre in both Kingdomes, Trumpe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s every where.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Ieremiah</hi> assureth safety in <hi>Iudea,</hi> and destruction in <hi>Egypt.</hi>
+               </head>
+               <p>And I wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l shew mercies unto you, that he may have m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcy upon you, and cause you to returne unto your owne la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; but if yee say, we will not dwell in this Land, neither obey the voyce of the Lord your God. Saying, no, but we wil go into the Land of <hi>Egypt,</hi> where we shall see no warre, nor heare the sound of the Trum<g ref="char:EOLhyphen"/>pet, nor have hunger of bread, and there will we dwell, <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rem</hi> 42. 12, 13, 14.</p>
+               <lg>
+                  <l>
+                     <hi>And h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re's a document for every one,</hi>
+                  </l>
+                  <l>
+                     <hi>Not for to feare the King of</hi> Babylon,</l>
+                  <l>
+                     <hi>But if in case we sleight his great command,</hi>
+                  </l>
+                  <l>
+                     <hi>And seeke to sojourne in some other Land</hi>
+                  </l>
+                  <l>
+                     <hi>Where is no signe of warre. No doubt the Lord</hi>
+                  </l>
+                  <l>
+                     <hi>Can reach as farre as Egypt with his Sword.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The finall desolation of <hi>Israel.</hi> Under the Typ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of a Chaine is shewed their mis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rable cap<g ref="char:EOLhyphen"/>tivity.</head>
+               <p>They have blowne the Trumpet even to make all ready, but none goeth to the battell, for my wrath is upon all the multitude thereof. The Sword is without, and the Pestilence and the famine within: he that is in the field shall die with the Sword, and he that is in the City, famine and pestilence shall devoure him, <hi>Ezek</hi> 7. 13, 14.</p>
+               <lg>
+                  <l>
+                     <hi>And here is set you see, before your eyes</hi>
+                  </l>
+                  <l>
+                     <hi>A very sad and mournfull Sacrifice;</hi>
+                  </l>
+                  <pb n="14" facs="tcp:101684:11"/>
+                  <l>
+                     <hi>Poore</hi> Israel <hi>must fall, the typ's a Chaine;</hi>
+                  </l>
+                  <l>
+                     <hi>But being down, may they not rise again?</hi>
+                  </l>
+                  <l>
+                     <hi>Yes, by repentance. Lord I thee implore,</hi>
+                  </l>
+                  <l>
+                     <hi>That I may goe away and sinne no more</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Gods providence for his Flocke.</head>
+               <p>If when he seeth the Sword come upon the Land, he blow the Trumpet and warne the people; then whoso<g ref="char:EOLhyphen"/>ever heares the sound of the Trumpet, and takes not warning, if the Sword come and take him away, his blood shall be upon his own head. He heard the sound of the Trumpet and tooke not warning, his blood shall be upon him. But he that taketh warning shall deliver his soule, <hi>Ezek.</hi> 33. 3 4, 5.</p>
+               <lg>
+                  <l>
+                     <hi>And here religious good</hi> Ezekiel.</l>
+                  <l>
+                     <hi>Doth very plaine and manifestly tell,</hi>
+                  </l>
+                  <l>
+                     <hi>That whosoever heares the Trumpet sound,</hi>
+                  </l>
+                  <l>
+                     <hi>And doth not warning take, he will be found</hi>
+                  </l>
+                  <l>
+                     <hi>His own Antagonist. Then since 'tis thus,</hi>
+                  </l>
+                  <l>
+                     <hi>Let this same caveat be enough for us.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Gods wrath against <hi>Moab</hi> upon <hi>Iudah</hi> and upon <hi>Israel.</hi>
+               </head>
+               <p>Thus saith the Lord, for the transgressions of <hi>Moab,</hi> and for foure I will not turne away the punishment thereof, because he burnt the bones of the King of <hi>Edom</hi> into lime. But I will send a fire upon <hi>Moab,</hi> and it shall devoure the palaces of <hi>Kerioth,</hi> and <hi>Moab</hi> shall die with tumult, and with the sound of the Trumpet, <hi>Amos</hi> 2. 1, 2.</p>
+               <lg>
+                  <l>
+                     <hi>And here the Prophet</hi> Amos, <hi>for the sinnes</hi>
+                  </l>
+                  <l>
+                     <hi>Both of the Syrians, and the Philistins,</hi>
+                  </l>
+                  <l>
+                     <hi>Doth very speedily prenounce a woe,</hi>
+                  </l>
+                  <l>
+                     <hi>Because they would, doe what he could, live so.</hi>
+                  </l>
+                  <pb n="15" facs="tcp:101684:11"/>
+                  <l>
+                     <hi>Princes and Peasants looke about you now,</hi>
+                  </l>
+                  <l>
+                     <hi>For death intends ere long to come to plow.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Gods severe judgement against <hi>Iudah</hi> for divers sinnes.</head>
+               <p>The great day of the Lord is neere, it is neere and hasteth greatly, even the voyce of the day of the Lord; the mighty man shal cry there bitterly; that day is a day of wrath, a day of trouble and distresse, a day of wastnes and desolation, a day of darknesse and of gloominesse, a day of cloud and thicke darknesse. A day of the Trum<g ref="char:EOLhyphen"/>pet and Alarm, against the senced Cities, and against the high Towers, <hi>Zeph.</hi> 14. 15, 16.</p>
+               <lg>
+                  <l>
+                     <hi>Here</hi> Zephaniah <hi>makes it plain appeare</hi>
+                  </l>
+                  <l>
+                     <hi>The great day of our maker draweth neere;</hi>
+                  </l>
+                  <l>
+                     <hi>A day of wrath, of trouble, and distresse,</hi>
+                  </l>
+                  <l>
+                     <hi>A day of sorrow, and of gloominesse,</hi>
+                  </l>
+                  <l>
+                     <hi>But since thy truth, O Lord, is come to light,</hi>
+                  </l>
+                  <l>
+                     <hi>Direct us now at last, to walke aright.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Davids</hi> exhortation to be merry in the Lord:</head>
+               <p>He shall chuse out an heritage for us, even the wor<g ref="char:EOLhyphen"/>ship of <hi>Iacob</hi> whom he loved. God is gone up with a merry noise, and the Lord with the sound of the Trump <hi>Psalm. 47. 4. 5.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Christ with a merry noise is gone you see</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋp into Heaven, with mirth and melody;</hi>
+                  </l>
+                  <l>
+                     <hi>He's gone before a Kingdome to provide,</hi>
+                  </l>
+                  <l>
+                     <hi>For those that cast off sinne and foolish pride.</hi>
+                  </l>
+                  <l>
+                     <hi>Then let us pray we may not be bereav'd</hi>
+                  </l>
+                  <l>
+                     <hi>Of that no eye hath seene, nor heart conceiv'd.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:101684:12"/>
+               <head>
+                  <hi>Davids</hi> affection to a Trumpet.</head>
+               <p>The Singers also and Trumpetters shall he rehearse, all my fresh Springs shall be in thee.</p>
+               <lg>
+                  <l>David <hi>in this patheticall sweet verse</hi>
+                  </l>
+                  <l>
+                     <hi>The honour of a Trumpet doth rehearse;</hi>
+                  </l>
+                  <l>
+                     <hi>And though with others, they doe often ill;</hi>
+                  </l>
+                  <l>
+                     <hi>Why yet you see they are remembred still.</hi>
+                  </l>
+                  <l>
+                     <hi>Then let it be the period of our paines,</hi>
+                  </l>
+                  <l>
+                     <hi>To sound; to come, and be where now he reignes.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Davids</hi> inducement to rejoyce in God.</head>
+               <p>Shew your selves joyfull in the Lord, all ye Lands; si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g, rejoyce and give thanks, with Trumpets also and S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>awme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; O shew your selves joyfull before the Lord the King, <hi>Psalm. 89 67.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>And here the Prophet</hi> David <hi>us commands</hi>
+                  </l>
+                  <l>
+                     <hi>To joy in God, the stoods to clap their hands:</hi>
+                  </l>
+                  <l>
+                     <hi>And then he gives a reason for this mirth,</hi>
+                  </l>
+                  <l>
+                     <hi>Because Jehovah'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> come to judge the earth.</hi>
+                  </l>
+                  <l>
+                     <hi>And therefore wil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> us in his written Psalmes</hi>
+                  </l>
+                  <l>
+                     <hi>To praise him both with Trumpets, &amp; with Shawm<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Davids</hi> earnest desire to praise the Lord.</head>
+               <p>Praise him in the sound of the Trumpet, praise him upon the Lute and Harpe, <hi>Psal. 150. 3.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Here is another motion that invites,</hi>
+                  </l>
+                  <l>
+                     <hi>And all our soules intirely incites</hi>
+                  </l>
+                  <l>
+                     <hi>To worship God. Then let the Harpe and Lute,</hi>
+                  </l>
+                  <l>
+                     <hi>The Trumpet, Cinabull sorrow to be mute:</hi>
+                  </l>
+                  <l>
+                     <hi>But let them all, all joyntly now record,</hi>
+                  </l>
+                  <l>
+                     <hi>To give one lusty sound, to praise the Lords</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:101684:12"/>
+               <head>The Christian Cryer: Or, <hi>Isaiahs</hi> Proclamation with a Trumpet.</head>
+               <p>Cry aloud, spare not, lift up thy voyce like a Trumpet, and shew my people their transgressions, and the house of <hi>Iacob</hi> their sins, <hi>Esay 58. 1.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Here we are at an Out-cry, come and buy</hi>
+                  </l>
+                  <l>
+                     <hi>Food for your soules: and he that doth deny</hi>
+                  </l>
+                  <l>
+                     <hi>This gracious proffer, let him fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ther goe,</hi>
+                  </l>
+                  <l>
+                     <hi>Till he confesses his owne overthrow.</hi>
+                  </l>
+                  <l>
+                     <hi>Now is the time now shines the blessed Sun,</hi>
+                  </l>
+                  <l>
+                     <hi>Take heed we come not when the Market's done.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Jeremiahs</hi> counsell, or his sorrow for the sinnes of <hi>Iudah.</hi>
+               </head>
+               <p>O ye children of <hi>Beniamin,</hi> gather your selves to flie out of the midst of <hi>Ierusalem,</hi> and blow the Trumpets in token, and set up a signe of fire in <hi>Beth-hatterem;</hi> for evill appeares out of the North, and great destruction, <hi>Ierem.</hi> 6. 1.</p>
+               <lg>
+                  <l>
+                     <hi>And now you Beniamites that live so loose,</hi>
+                  </l>
+                  <l>
+                     <hi>To you, to you hangs out this Flag of Truce:</hi>
+                  </l>
+                  <l>
+                     <hi>The Prophet sayes, ther's evill doth appeare</hi>
+                  </l>
+                  <l>
+                     <hi>Out of the North; we have examples here,</hi>
+                  </l>
+                  <l>
+                     <hi>The Beacons fire'd Fly then, O fly from sin,</hi>
+                  </l>
+                  <l>
+                     <hi>Or else we never shall returne agen.</hi>
+                  </l>
+               </lg>
+               <p>Blow ye the Cornet in <hi>Gibeah,</hi> and the Trumpet in <hi>Ramah:</hi> cry aloud at <hi>Beth-aven,</hi> after thee, O <hi>Beniamin, Hosea 5. 8.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Here is another caveat against sin.</hi>
+                  </l>
+                  <l>
+                     <hi>Who doth</hi> Hosea <hi>meane? Why,</hi> Benjamin,</l>
+                  <pb n="18" facs="tcp:101684:13"/>
+                  <l>
+                     <hi>Nay if it be 'gainst</hi> Benjamin, <hi>we care not,</hi>
+                  </l>
+                  <l>
+                     <hi>Or</hi> Ephraim <hi>either, let him cry and spare not.</hi>
+                  </l>
+                  <l>
+                     <hi>But</hi> England, <hi>be not childish, change thy Text,</hi>
+                  </l>
+                  <l>
+                     <hi>For know, for ought I know, thy turne is next.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Ioel</hi> prescribes a Fast, and exhorts to repen<g ref="char:EOLhyphen"/>tance by the sound of a Trumpet.</head>
+               <p>Blow ye the Trumpet in <hi>Zion,</hi> and sound an Alarm in my holy mountaine; let all the inhabitants of the Land tremble, for the day of the Lord comes, it is nigh at hand. Blow ye the Trumpet in <hi>Zion,</hi> sanctifie a Fast, call a solemne Assembly, <hi>Ioel</hi> 2. 1, 15.</p>
+               <lg>
+                  <l>
+                     <hi>I, here's a Noble Trumpeter indeed;</hi>
+                  </l>
+                  <l>
+                     <hi>He cals full well, God send him well to speed.</hi>
+                  </l>
+                  <l>
+                     <hi>But what was that which he but now did say?</hi>
+                  </l>
+                  <l>
+                     <hi>Must we repent, and all goe fast and pray?</hi>
+                  </l>
+                  <l>
+                     <hi>Tis something difficult, and hard for one;</hi>
+                  </l>
+                  <l>
+                     <hi>Yet say the Word, O Lord, and then 'tis done.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The necessity of Gods judgements against <hi>Israel.</hi>
+               </head>
+               <p>Shall a Trumpet be blowne in the City, and the peo<g ref="char:EOLhyphen"/>ple not be afraid? Shall there be evill in a City, and the Lord hath not done it? <hi>Amos</hi> 3. 6.</p>
+               <lg>
+                  <l>
+                     <hi>Here is another Prophet that complaines</hi>
+                  </l>
+                  <l>
+                     <hi>But God knowes who doth pitty him for his paines.</hi>
+                  </l>
+                  <l>
+                     <hi>He doth endeavour for to make all well</hi>
+                  </l>
+                  <l>
+                     <hi>Between the Lord of Hosts and</hi> Israel.</l>
+                  <l>
+                     <hi>O now for such an</hi> Amos <hi>that would stand</hi>
+                  </l>
+                  <l>
+                     <hi>And talke with God, like</hi> Moses, <hi>hand to hand.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:101684:13"/>
+               <head>Gods great mercy in alwaies defending his Church.</head>
+               <p>And the Lord shall be seen over them, and his Arrow shall goe forth as the lightning; and the Lord God shall blow with the Trumpet, and shall goe with whirlwinds of the South, <hi>Zech.</hi> 9. 14.</p>
+               <lg>
+                  <l>
+                     <hi>And here it is most manifestly found,</hi>
+                  </l>
+                  <l>
+                     <hi>God, like a whirlwinde, will his foes confound;</hi>
+                  </l>
+                  <l>
+                     <hi>But such as truly seeke him shall be sure,</hi>
+                  </l>
+                  <l>
+                     <hi>When his wrath kindles for to be secure.</hi>
+                  </l>
+                  <l>
+                     <hi>Lord, of thy mercy grant us our desire,</hi>
+                  </l>
+                  <l>
+                     <hi>That we may burne in zeale, not burne in fire,</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The altar is set up in his place; the foundations of the Temple, which is hindred for a time.</head>
+               <p>And the Priests stood arrayed in their vestments, with musicall Instruments and Trumpets, and the Le<g ref="char:EOLhyphen"/>vites the sonnes of <hi>Asaph</hi> had Cymbals, and all the peo<g ref="char:EOLhyphen"/>ple shouted sounded with Trumpets and with a loud voyce, singing songs of thanksgiving unto the Lord: but many with Trumpets and joy shouted with a loud voice, in so much that the Trumpets might not be heard for the weeping of the people; yet the multitude soun<g ref="char:EOLhyphen"/>ded marvellously, so that it was heard afar off; where<g ref="char:EOLhyphen"/>fore when they of the Tribe of <hi>Iudah</hi> and <hi>Benjamin</hi> heard, they came to know what the noise of the Trum<g ref="char:EOLhyphen"/>pets might meane, 1 <hi>Esdras</hi> 5. 59, 62.</p>
+               <lg>
+                  <l>
+                     <hi>The Temple is erecting here you see,</hi>
+                  </l>
+                  <l>
+                     <hi>By those that were of the captivity;</hi>
+                  </l>
+                  <l>
+                     <hi>And though by popular perswasion some</hi>
+                  </l>
+                  <l>
+                     <hi>Would hinder this good worke so well begun:</hi>
+                  </l>
+                  <pb n="20" facs="tcp:101684:14"/>
+                  <l>
+                     <hi>Let us not be dismayed, but go on</hi>
+                  </l>
+                  <l>
+                     <hi>Like holy members of the corner stone.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Gods purpose is eternall, the next world shall follow this immediately.</head>
+               <p>And the Trumpet shall sound, which when every man hears, they shall be suddenly afraid, 2 <hi>Esdras</hi> 6. 23.</p>
+               <lg>
+                  <l>
+                     <hi>It seems the Lord of hosts doth here intend</hi>
+                  </l>
+                  <l>
+                     <hi>The world ere long shall have a finall end.</hi>
+                  </l>
+                  <l>
+                     <hi>The Trumpet that must sound, which when we heare,</hi>
+                  </l>
+                  <l>
+                     <hi>They say, It will exasperate our feare.</hi>
+                  </l>
+                  <l>
+                     <hi>Then let us feare the Lord which doth forheare us,</hi>
+                  </l>
+                  <l>
+                     <hi>And then the Trumpets sound shall never scare as.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Iudas</hi> besiegeth those in the Towne of <hi>Ieru<g ref="char:EOLhyphen"/>salem.</hi>
+               </head>
+               <p>Then the King rising very early, marched fiercely with his host toward <hi>Bathzacharias,</hi> where his Armies made them ready for battell, and sounded the Trum<g ref="char:EOLhyphen"/>pets 1 <hi>Mac.</hi> 33, 34.</p>
+               <lg>
+                  <l>
+                     <hi>The King is marcht, you see, with all his might</hi>
+                  </l>
+                  <l>
+                     <hi>To</hi> Bathzacharias, <hi>purposely to fight;</hi>
+                  </l>
+                  <l>
+                     <hi>And that his Elephants no heart might leese,</hi>
+                  </l>
+                  <l>
+                     <hi>He shews them blood of grapes and mulberies.</hi>
+                  </l>
+                  <l>
+                     <hi>And that we may despise all worldly losse,</hi>
+                  </l>
+                  <l>
+                     <hi>Let us remember Christ upon the Crosse.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Armies of <hi>Iudas</hi> flie from him, he is slaine, and his brother <hi>Ionathan</hi> survives him.</head>
+               <p>As for <hi>Bacchidas</hi> he was in the right wing, for the host drew neere on the two parts and sounded their Trumpets; they also of <hi>Judas</hi> side, even they also soun<g ref="char:EOLhyphen"/>ded
+<pb n="21" facs="tcp:101684:14"/> their Trumpets, so that the earth shook at the noise of the Armies, and the battell continued from morning till night, 1 <hi>Mac.</hi> 9. 12, 13.</p>
+               <lg>
+                  <l>
+                     <hi>And her's another fierce and cruell fight,</hi>
+                  </l>
+                  <l>
+                     <hi>Betwixt the men of darknesse and of light;</hi>
+                  </l>
+                  <l>
+                     <hi>For</hi> Iudas <hi>is by base</hi> Alcimus <hi>slaine,</hi>
+                  </l>
+                  <l>
+                     <hi>And then survives his brother</hi> Jonathan.</l>
+                  <l>
+                     <hi>Which clearly shews, though trouble evertake us,</hi>
+                  </l>
+                  <l>
+                     <hi>God in adversity will nere forsake us.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Cartaine of <hi>Iericho</hi> invites <hi>Simon</hi> and two of his sonnes into his Castle, and there trea<g ref="char:EOLhyphen"/>cherously murders them.</head>
+               <p>Then sounded they with the holy Trumpets, where<g ref="char:EOLhyphen"/>upon <hi>Cendebus</hi> and his host were put to flight, so that many of them were slaine, and the rest gate them to the strong hold, 1 <hi>Mac.</hi> 16. 8.</p>
+               <lg>
+                  <l>
+                     <hi>Here</hi> Simon <hi>leads his Army to restore</hi>
+                  </l>
+                  <l>
+                     <hi>And get the honour partly lost before;</hi>
+                  </l>
+                  <l>
+                     <hi>But when he saw amongst them no one durst</hi>
+                  </l>
+                  <l>
+                     <hi>To passe the brooke, why he goes over fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st,</hi>
+                  </l>
+                  <l>
+                     <hi>And then they follow; be not then mistooke,</hi>
+                  </l>
+                  <l>
+                     <hi>For Christ himselfe has first past ore the brooke.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Authors farewell to the Old Testament, with his welcome into the New.</head>
+               <lg>
+                  <l>
+                     <hi>The day is broke,</hi> Aurora <hi>shineth cleare,</hi>
+                  </l>
+                  <l>
+                     <hi>And now the Sunne, our Saviour, doth appeare;</hi>
+                  </l>
+                  <l>
+                     <hi>Come Cherubims and Seraphs helpe me sing</hi>
+                  </l>
+                  <l>
+                     <hi>One sweet Soliloquie, to Christ our King:</hi>
+                  </l>
+                  <pb n="22" facs="tcp:101684:15"/>
+                  <l>
+                     <hi>Come holy Ghost, into my soule infuse</hi>
+                  </l>
+                  <l>
+                     <hi>A sweeter and more sanctified Muse,</hi>
+                  </l>
+                  <l>
+                     <hi>That I may tell the world what</hi> David <hi>said,</hi>
+                  </l>
+                  <l>
+                     <hi>This is the day which great</hi> Jehovah <hi>made.</hi>
+                  </l>
+                  <l>
+                     <hi>And now farewell, and heartily adieu</hi>
+                  </l>
+                  <l>
+                     <hi>To blood of Rams and Goats, and Bullocks too,</hi>
+                  </l>
+                  <l>
+                     <hi>And offerings by your leave; let tears come in,</hi>
+                  </l>
+                  <l>
+                     <hi>No sacrificing now, but sighs for sin.</hi>
+                  </l>
+                  <l>
+                     <hi>Idols and Images, packe hence away,</hi>
+                  </l>
+                  <l>
+                     <hi>And give some roome for good</hi> Jehoiada.</l>
+                  <l>
+                     <hi>But let them keepe them, that doe will or please</hi>
+                  </l>
+                  <l>
+                     <hi>Still to lie bound in deepest Euphrates.</hi>
+                  </l>
+                  <l>
+                     <hi>Farewell to</hi> Balaam, <hi>and to</hi> Balaams <hi>asse,</hi>
+                  </l>
+                  <l>
+                     <hi>And let the Star of</hi> Jacob <hi>freely passe.</hi>
+                  </l>
+                  <l>
+                     <hi>Farewell to Ceremonies and their crew,</hi>
+                  </l>
+                  <l>
+                     <hi>For they must</hi> nolens volens <hi>leave us too.</hi>
+                  </l>
+                  <l>
+                     <hi>Farewell to such as doe on</hi> Dagon <hi>call,</hi>
+                  </l>
+                  <l>
+                     <hi>For Christ our head hath quite abolisht all.</hi>
+                  </l>
+                  <l>
+                     <hi>Farewell to those that doe in darknesse sit,</hi>
+                  </l>
+                  <l>
+                     <hi>And in the region of a darkesome pit.</hi>
+                  </l>
+                  <l>
+                     <hi>A Light's sprung up, a glorious Light, I say,</hi>
+                  </l>
+                  <l>
+                     <hi>One that is famous thorow</hi> Syria;</l>
+                  <l>
+                     <hi>One that no time in idlenesse hath spent,</hi>
+                  </l>
+                  <l>
+                     <hi>But still did preach, and teach us to repent,</hi>
+                  </l>
+                  <l>
+                     <hi>Both in the Temple and the Synagogues,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet will not cast away his bre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d to dogs:</hi>
+                  </l>
+                  <l>
+                     <hi>One that doth please his goodnesse now and then,</hi>
+                  </l>
+                  <l>
+                     <hi>To make poore fishers catch up soules and men,</hi>
+                  </l>
+                  <l>
+                     <hi>One, that no one, but Heathens will gain-say him,</hi>
+                  </l>
+                  <l>
+                     <hi>For know, the very winds and seas obey him.</hi>
+                  </l>
+                  <pb n="23" facs="tcp:101684:15"/>
+                  <l>
+                     <hi>One likewise, if he say but thus, or thus,</hi>
+                  </l>
+                  <l>
+                     <hi>His word's a Statute, witnesse</hi> Lazarus,</l>
+                  <l>
+                     <hi>One loving</hi> Peters <hi>mother will not leave her,</hi>
+                  </l>
+                  <l>
+                     <hi>Till she he cured of her burning fever;</hi>
+                  </l>
+                  <l>
+                     <hi>One that doth heale the lame and mends the sick,</hi>
+                  </l>
+                  <l>
+                     <hi>And gives discretion to the lunatick;</hi>
+                  </l>
+                  <l>
+                     <hi>One that doth cure indeed all sorts of evils,</hi>
+                  </l>
+                  <l>
+                     <hi>And helpeth those that are possest with Devils;</hi>
+                  </l>
+                  <l>
+                     <hi>One that hath judgement, and doth truly know</hi>
+                  </l>
+                  <l>
+                     <hi>To cleanse a Leper that's as white as snow;</hi>
+                  </l>
+                  <l>
+                     <hi>One that is followed by all sorts of men,</hi>
+                  </l>
+                  <l>
+                     <hi>From beyond</hi> Iordan <hi>to</hi> Ierusalem:</l>
+                  <l>
+                     <hi>Then let us pray, Such graces may be given,</hi>
+                  </l>
+                  <l>
+                     <hi>That we may follow him with speed to Heaven.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Saint MATTHEW. Christs exhortation to give our almes in secret.</head>
+               <p>TAke heed you doe not your alms before men, to be seen of them, otherwise you have no reward of your Father which is in Heaven; therefore when then doest thine alms, doe not sound a Trumpet before thee as the hypocrites doe in the Synagogues and in the streets, that they may have glory of men: Verily, I say unto you, they have their reward, <hi>Mat.</hi> 6. 1, 2.</p>
+               <lg>
+                  <l>
+                     <hi>Here is a caveat now in generall,</hi>
+                  </l>
+                  <l>
+                     <hi>What to observe, why not to sound at all;</hi>
+                  </l>
+                  <l>
+                     <hi>Not when thou doest thine alms, for surely then</hi>
+                  </l>
+                  <l>
+                     <hi>Thou dost it solely to be seene of men.</hi>
+                  </l>
+                  <pb n="24" facs="tcp:101684:16"/>
+                  <l>
+                     <hi>And therefore do not prove an hypocrite,</hi>
+                  </l>
+                  <l>
+                     <hi>But give in secret, though it be a mite.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The last and great sound of a Trumpet.</head>
+               <p>And then shall appeare the signe of the Sonne of man in Heaven; and then shall all tribes of the earth mourn, and they shall see the Sonne of man comming in the clouds of Heaven with power and great glory, and he shall send his Angels with a great sound of a Trumpet, and they shall gather together his Elect from the foure winds, from one end of Heaven unto the other, <hi>Matth.</hi> 24. 30, 31.</p>
+               <lg>
+                  <l>
+                     <hi>And thus you see by this undoubted story,</hi>
+                  </l>
+                  <l>
+                     <hi>That Christ will come in majesty and glory;</hi>
+                  </l>
+                  <l>
+                     <hi>Likwise ye know, that when the Figtree's dry,</hi>
+                  </l>
+                  <l>
+                     <hi>We straight give up and say, The Summer's nigh.</hi>
+                  </l>
+                  <l>
+                     <hi>Then lot us all be carefull to be found</hi>
+                  </l>
+                  <l>
+                     <hi>Ready prepar'd, against the Trumpet sound</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Of the Resurrection, the fruit and manner thereof.</head>
+               <p>Behold, I shew you a mystery, we shall not all sleep, but we shall all be changed in a moment, in the twink<g ref="char:EOLhyphen"/>ling of an eye at the last Trump; for the Trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed, 1 <hi>Cor. 5. 52.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>And here Saint</hi> Paul <hi>doth plainly shew each one,</hi>
+                  </l>
+                  <l>
+                     <hi>The certainly o'th Resurrection;</hi>
+                  </l>
+                  <l>
+                     <hi>And sure I am, it would no little grieve him,</hi>
+                  </l>
+                  <l>
+                     <hi>If any one should fool-like not beleeve him;</hi>
+                  </l>
+                  <l>
+                     <hi>Yet some such men there be, the Prophet saith,</hi>
+                  </l>
+                  <l>
+                     <hi>Lord, I beleeve, make strong my feeble faith.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:101684:16"/>
+               <head>A second comming of Christ to Judgement.</head>
+               <p>For the Lord himselfe shall descend from Heaven with a shout, with the voice of the Arch-Angell, and with the Trump of God, and the dead in Christ shall rise up first. <hi>1 Thes. 4. 16.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>That Priests, that Levites, nay, that Angels too,</hi>
+                  </l>
+                  <l>
+                     <hi>Have all their Trumps, is nothing, What thinke you,</hi>
+                  </l>
+                  <l>
+                     <hi>When God his Trump hath? &amp; that Trump shall wake us,</hi>
+                  </l>
+                  <l>
+                     <hi>And make the sleep of death at last forsake us.</hi>
+                  </l>
+                  <l>
+                     <hi>O, of what force then is a Trumpets sound,</hi>
+                  </l>
+                  <l>
+                     <hi>Which shall call up the dead from under ground.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>At the opening of the seventh Seale, seven An<g ref="char:EOLhyphen"/>gels had seven Trumpets given them, and great plagues followed after.</head>
+               <p>And the seven Angels which had the seven Trum<g ref="char:EOLhyphen"/>pets prepared themselves to sound; the first Angel soun<g ref="char:EOLhyphen"/>ded, and there followed haile, and fire mingled with blood, and they were cast upon the earth, and the third part of trees were burnt up, and all greene grasse was burnt up. And the second Angell sounded, and as it were a great mountaine burning with fire was cast into the Sea, and the third part of the Sea became blood. And the third Angell sounded, and there fell a great Star from Heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters. And the fourth Angell sounded, and the third part of the Sunne was smitten, and the third part of the Moone, and the third part of the Stars, so as the third part of them was darkned, and the day shone not for a third part of it, and the night likewise, <hi>Revel. 8. 2, 6, 7, 8,</hi> &amp;c.</p>
+               <lg>
+                  <pb n="26" facs="tcp:101684:17"/>
+                  <l>
+                     <hi>Here I am in a Labyrinth, yet no doubt</hi>
+                  </l>
+                  <l>
+                     <hi>By thy helpe, Lord, I shall get safely out;</hi>
+                  </l>
+                  <l>
+                     <hi>For all these sayings are not so involv'd,</hi>
+                  </l>
+                  <l>
+                     <hi>But we perceive the world shall be dissolv'd.</hi>
+                  </l>
+                  <l>
+                     <hi>Likewise we see, that all of them are bound</hi>
+                  </l>
+                  <l>
+                     <hi>To make a preparation for to sound;</hi>
+                  </l>
+                  <l>
+                     <hi>Grant therefore, Lord, that we with speed may hie</hi>
+                  </l>
+                  <l>
+                     <hi>To sound thy praise, and in that sounding die.</hi>
+                  </l>
+                  <l>
+                     <hi>And likewise grant that Satan nere prevaile</hi>
+                  </l>
+                  <l>
+                     <hi>To beat our soules to pieces with his haile;</hi>
+                  </l>
+                  <l>
+                     <hi>And that the fire that's mingled thus with blood,</hi>
+                  </l>
+                  <l>
+                     <hi>May hurt not us, but rather doe us good;</hi>
+                  </l>
+                  <l>
+                     <hi>And though the mountains they doe burne like fire</hi>
+                  </l>
+                  <l>
+                     <hi>Let us not greatly feare, although admire;</hi>
+                  </l>
+                  <l>
+                     <hi>And though the third part of the trees be burn'd,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet turne us Lord, and so shall we be turn'd.</hi>
+                  </l>
+                  <l>
+                     <hi>And though the Star is sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tten out so far,</hi>
+                  </l>
+                  <l>
+                     <hi>The Star of</hi> Iacob <hi>hath excel'd this star;</hi>
+                  </l>
+                  <l>
+                     <hi>And though his name be Wormwood, please to know,</hi>
+                  </l>
+                  <l>
+                     <hi>To them that live in Christ 'tis nothing so.</hi>
+                  </l>
+                  <l>
+                     <hi>And though the Sun and Moone shall lose their light,</hi>
+                  </l>
+                  <l>
+                     <hi>We trust still to injoy thy radiant sight;</hi>
+                  </l>
+                  <l>
+                     <hi>And having that, let Hell and Satan rore,</hi>
+                  </l>
+                  <l>
+                     <hi>We are made and blest for ever, evermore.</hi>
+                  </l>
+               </lg>
+               <p>And the fifth Angell sounded, and I saw a star fall from Heaven unto the earth, and to him was given the key of the bottomlesse pit. And the sixth Angell soun<g ref="char:EOLhyphen"/>ded, and I heard a voice from the foure horns of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olden alter which is before God, saying to the sixth Angell that had the Trumpet, Loose the foure Angels
+<pb n="27" facs="tcp:101684:17"/> which are bound in the great river <hi>Euphrates, Rev.</hi> 1. 13, 14 &amp;c.</p>
+               <lg>
+                  <l>
+                     <hi>And thus you see hath Satan got his swing,</hi>
+                  </l>
+                  <l>
+                     <hi>And over his raigns like a little King;</hi>
+                  </l>
+                  <l>
+                     <hi>Now is the time he stalkes and domineers,</hi>
+                  </l>
+                  <l>
+                     <hi>And far and neere commands both Prince and Peers:</hi>
+                  </l>
+                  <l>
+                     <hi>Now is the time he rides his circuit round,</hi>
+                  </l>
+                  <l>
+                     <hi>To see whom he may catch, and so confound:</hi>
+                  </l>
+                  <l>
+                     <hi>Now is the time that people serve him more</hi>
+                  </l>
+                  <l>
+                     <hi>Then ere they did in any time before:</hi>
+                  </l>
+                  <l>
+                     <hi>Now is the time he strives, as you may read,</hi>
+                  </l>
+                  <l>
+                     <hi>To make his kingdome populous indeed:</hi>
+                  </l>
+                  <l>
+                     <hi>And now's the time to better our estate;</hi>
+                  </l>
+                  <l>
+                     <hi>Take it then, pray, before it be too late,</hi>
+                  </l>
+                  <l>
+                     <hi>And let not him, as cunning as he is,</hi>
+                  </l>
+                  <l>
+                     <hi>Bereave us of our deare bought happinesse;</hi>
+                  </l>
+                  <l>
+                     <hi>But let us in the Name of God goe on</hi>
+                  </l>
+                  <l>
+                     <hi>Fearlesse, and dreadlesse of this Abaddon;</hi>
+                  </l>
+                  <l>
+                     <hi>This great destroyer of the worlds huge frame,</hi>
+                  </l>
+                  <l>
+                     <hi>And strives with rancour still to worke the same.</hi>
+                  </l>
+                  <l>
+                     <hi>And let not this Apollyon be more wise</hi>
+                  </l>
+                  <l>
+                     <hi>To cast us downe, then we our selves to rise,</hi>
+                  </l>
+                  <l>
+                     <hi>But let us to the very end indure,</hi>
+                  </l>
+                  <l>
+                     <hi>Making our Calling and Election sure;</hi>
+                  </l>
+                  <l>
+                     <hi>And then no doubt we shall be safe and well,</hi>
+                  </l>
+                  <l>
+                     <hi>When he's a gnashing of his teeth in Hell.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>A mighty strong Angel appears with a booke open in his hand.</head>
+               <p>But in the dayes of the voyce of the seventh Angell, When he shall begin to sound, the mystery of God shall
+<pb n="28" facs="tcp:101684:18"/> be finished, as he hath declared to his servants the Pro<g ref="char:EOLhyphen"/>phets, <hi>Revel.</hi> 10. 7.</p>
+               <lg>
+                  <l>
+                     <hi>The sound of the seventh Trumpet, thank my God,</hi>
+                  </l>
+                  <l>
+                     <hi>Has brought me almost to a period:</hi>
+                  </l>
+                  <l>
+                     <hi>But now, if any one desires to know</hi>
+                  </l>
+                  <l>
+                     <hi>Wherefore I wrote upon a Trumpet so,</hi>
+                  </l>
+                  <l>
+                     <hi>My reason's this, because with all my heart</hi>
+                  </l>
+                  <l>
+                     <hi>I love a Trumpet, that am but a part;</hi>
+                  </l>
+                  <l>
+                     <hi>And cause I would have all men strive to be</hi>
+                  </l>
+                  <l>
+                     <hi>Helpers, not harmers to the quality.</hi>
+                  </l>
+                  <l>
+                     <hi>My second reason is, because I saw,</hi>
+                  </l>
+                  <l>
+                     <hi>Both in the old and in the new<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st Law,</hi>
+                  </l>
+                  <l>
+                     <hi>A Trumpet much was honour'd, and that then</hi>
+                  </l>
+                  <l>
+                     <hi>'Twas practiz'd still by good and godly men.</hi>
+                  </l>
+                  <l>
+                     <hi>Indeed a Trumpet was ordain'd to be</hi>
+                  </l>
+                  <l>
+                     <hi>At any Fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st or great solemnity;</hi>
+                  </l>
+                  <l>
+                     <hi>And when the Lord would have some service done,</hi>
+                  </l>
+                  <l>
+                     <hi>He orders still a Trumpet to be one.</hi>
+                  </l>
+                  <l>
+                     <hi>It is an Instrument that God above,</hi>
+                  </l>
+                  <l>
+                     <hi>Being us'd, and not abus'd, doth well approve.</hi>
+                  </l>
+                  <l>
+                     <hi>It is an Instrument that</hi> David, <hi>he</hi>
+                  </l>
+                  <l>
+                     <hi>Did mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h respect, and honour too, ye see.</hi>
+                  </l>
+                  <l>
+                     <hi>It is an Instrument he often brings</hi>
+                  </l>
+                  <l>
+                     <hi>To be at Arkes, and in the Courts of Kings.</hi>
+                  </l>
+                  <l>
+                     <hi>It is an Instrument that few or none</hi>
+                  </l>
+                  <l>
+                     <hi>But did approve of, so did Solomon.</hi>
+                  </l>
+                  <l>
+                     <hi>An Instrument King</hi> Ioash <hi>so renown'd,</hi>
+                  </l>
+                  <l>
+                     <hi>That he would have it next him, being crown'd▪</hi>
+                  </l>
+                  <l>
+                     <hi>It is an Instrument whose warlike voyce,</hi>
+                  </l>
+                  <l>
+                     <hi>Makes both the horse and horsmen to rejoyce.</hi>
+                  </l>
+                  <pb n="29" facs="tcp:101684:18"/>
+                  <l>
+                     <hi>It is an Instrument the Levites they</hi>
+                  </l>
+                  <l>
+                     <hi>Respected more then I conceive, or say.</hi>
+                  </l>
+                  <l>
+                     <hi>It is an Instrument, at whose last sound</hi>
+                  </l>
+                  <l>
+                     <hi>The dead shall rise, and Gods Elect be Crown'd.</hi>
+                  </l>
+                  <l>
+                     <hi>Then let us with celerity endeavour</hi>
+                  </l>
+                  <l>
+                     <hi>To raigne with him that reignes in Heaven for ever.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Certaine similitudes of a Trumpet.</head>
+               <p>A Good Trumpet is like a good booke, many one desires to see or heare it.</p>
+               <p>A Trumpet is like Religion, little worth unlesse it be followed.</p>
+               <p>A learner to sound is like a learner to speake, faine would prattle plaine, and cannot.</p>
+               <p>A Trumpet with some hidden cracke in it, is like a man that seemes religious, but is not so; and though he may dissemble it a while, yet truth will shew his cha<g ref="char:EOLhyphen"/>racter at last.</p>
+               <p>A Trumpet broke in two, is like a man and his wife parted asunder; and as that sounds, so do they: in stead of sweet Musique, nought but discord.</p>
+               <p>Two good Trumpets sounding for the better, is like two Clients up to the cares in Law, the one still lookes for the fall of the other.</p>
+               <p>A Trumpet too fearefull before the enemy, is like a house that is built upon the sand; every gust and unex<g ref="char:EOLhyphen"/>pected storme doth prophesie the ruine to be great.</p>
+               <p>A sweet Trumpet is like a sweet Voyce; and, to say truth, they ravish both alike.</p>
+               <p>A Trumpet that cannot sound, being choakt or stopt with something, is like a poore Lay-man that would
+<pb n="30" facs="tcp:101684:19"/> faine talke divinely, but wants ability and learning to performe it.</p>
+               <p>A Trumpet that resolves a good action, and doth not effect it, is like a man that layes his hand to the Plow, and takes it off againe.</p>
+               <p>That Trumpet that goes too often to visit Gentle<g ref="char:EOLhyphen"/>men, when the Standard's in the field, doth either mi<g ref="char:EOLhyphen"/>strust his pay, or doubt his owne sidelity: for he that will, to right himselfe, doe the quality wrong, may be a friendly Trumpet, though no Trumpeters friend: mi<g ref="char:EOLhyphen"/>stake me not, I pray, though custome be a second nature, 'tis ill halting before a Cripple. You know, Gentlemen, I goe lame too.</p>
+               <p>That Trumpet, though ne're so poore, that is rich in vertue, shall never lacke, though he want: for God with the Lilies of love, and Marigolds of mercy will so inlarge his Dasies of industry and Violets of vertue, that though he be impoverish'd, he shall never perish.</p>
+               <p>That Trumpet that is ancient, whose age has almost made him sicke with sounding, let him every morning drinke a good draught of Fennell-broth of saith; and if it goes against his stomacke, let him but smell to the Roses of righteousnesse, Balme of bounty, and the Pinks of piety, and ther's no question of his doing well.</p>
+               <p>A Trumpet that loves his habit better then wholsome Laws, is like a man that is accounted honest more for his wealth then his wel-doing.</p>
+               <p>A Trumpet that is very merry when his Prince is an<g ref="char:EOLhyphen"/>gry, is like a man that is too too jocond when the Lord's offended; and though his Sword be drawne, yet he cannot be drawne to signe to any Creed, unlesse he may make his owne Articles.</p>
+               <p>That Trumpet that vowes loyalty to his Prince, and minds not his Laws, is like a servant that sweares he
+<pb n="31" facs="tcp:101684:19"/> loves his master, although he daily doth neglect his bu<g ref="char:EOLhyphen"/>sinesse. Doubtlesse he's a good subject to the King that feares God.</p>
+               <p>That Trumpet that sounds the Lords praise, as well as his Princes fame, doth excellent service, though his lips be sore.</p>
+               <p>A Trumpet that really performs his message, though with danger of his life, has an honest heart what ere his tongue be.</p>
+               <p>A Trumpet that Sounds a retreat to a Troop, and a couragious march to himselfe, is like a man that gives a small gift with one hand, to receive a better with the other.</p>
+               <p>A Trumpet that growes suddenly rich, and forgets to give thanks, is like a Mariner that makes a vow at sea, which commonly ends with a Tempest.</p>
+               <p>That Trumpet that serves more to advance a good cause then to raise himselfe, shall be sure to have a good Standard to flie to, when he cannot stand himselfe.</p>
+               <p>A Trumpet that is promiscuously slaine by his friend, and thinkes it was his foe, is like some honest heart that goes to part a duell; he that would faine have peace, is the first man sometimes is made to hold his peace.</p>
+               <p>A Trumpet that lookes more at the oddes of the e<g ref="char:EOLhyphen"/>nemy then the mercy of his Maker, forgets Gods pro<g ref="char:EOLhyphen"/>mise in the tenth of <hi>Numbers;</hi> and ten to one, let him number how he will▪ his reckoning is not faire.</p>
+               <p>A Trumpet that sounds too many healths to the hap<g ref="char:EOLhyphen"/>py union of a civill warre, is like a man that would faine have the world mend, but dares not goe to the charge to practice it himselfe.</p>
+               <p>A Silver Trumpet with a rich banner at it, is like a Citizens wife in a Sattin Gowne, which makes so many cry, would that were mine.</p>
+               <pb n="32" facs="tcp:101684:20"/>
+               <p>A Trumpet that receives pay on one side and runne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> straight to the other, is more like a Weather-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocke, then a trade▪wind to the straights, for which way t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at blows hecares not much to blow; nay being once resolved hee'l do't though he ride his Horse till he make him blow too.</p>
+               <p>A Trumpet that promises more in a Taverne then he performes in the field, may be valiant I confesse, but by your favour, your reall symptomes are the truest <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>A good Trumpet that is badly ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, may lay the fault upon his Commander, if he has any command, so to doe: in the meane time methinkes he is like a rich Farmer in a poore sute, onely here's the difference, the one can goe better if he list, and the other cannot.</p>
+               <p>A Trumpet that is rare in his quality and despises his inferiour, is much like a man that would ride a great Horse, but cannot mount the Saddle; mistake me not, Gentlemen, I have knowne a meane part become the principall, which shewes the Lord of Hosts is a man of warre▪ and disposeth of his owne benefits as he pleaseth.</p>
+               <p>A Trumpet without a mouth-piece is like a Trooper without a head-piece, absent in service, dangerous.</p>
+               <p>A good Point of warre is like a good piece of ware, it may lie dead, 'tis true, yet it will survive at one time or another.</p>
+               <p>Water poured into the Pavilion of a Trumpet, is like a carelesse hearer of an Homily, in at one eare and out at another.</p>
+               <p>A Trumpet without breath is like a body with<g ref="char:EOLhyphen"/>out life.</p>
+               <p>A Trumpet that desires to drinke when he hath e<g ref="char:EOLhyphen"/>nough already, is like a Ducke that dives in faire water, and afterwards paddles in the dirt.</p>
+               <p>A couragious Trumpet upon a message is like a vali<g ref="char:EOLhyphen"/>ant
+<pb n="33" facs="tcp:101684:20"/> Embassadour, for he dares boldly speake to any Prince in Christendome.</p>
+               <p>A Trumpet sounding an Alarm at midnight is like the true Effigies, or picture of death; for it puts us often in mind of our mortality.</p>
+               <p>An honest Trumpet is like some excellent or dainty Herbe, what good so ever it doth, it tels no man.</p>
+               <p>A Trumpet in ordinary is like an ordinary Trumpet, onely his Coate, and His Majesties meanes, makes the difference.</p>
+               <p>A Trumpet sounded upon a Church Steeple i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> like a Beacon set on fire, for it makes many a man looke to<g ref="char:EOLhyphen"/>wards Heaven, that never intends to come there.</p>
+               <p>The stroke of a Trumpet is like the stroke of death, which being once struck is past recovery.</p>
+               <p>A Trumpet and an Echo is like a rich man and a poore flatterer, what the one sayes, the other seconds.</p>
+               <p>A Trumpet that leads up the Troop sounding, and suffers presently after, is like a harmlesse innocent at Sea, that knowing nothing, smiles, and fals to play whilst Ship and Goods, and all are cast away.</p>
+               <p>A Trumpet that has good a lip and a lasting, is like a good man, that begins a good worke, and so continue<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</p>
+               <p>And as the one gets credit by his sound,</p>
+               <p>So is the other, for his Action Crown'd.</p>
+            </div>
+            <div type="part">
+               <head>The three parts of a Trumpet explained.</head>
+               <lg>
+                  <l>
+                     <hi>THe Meason, that doth to us signifie</hi>
+                  </l>
+                  <l>
+                     <hi>Our infant age, and green minority.</hi>
+                  </l>
+                  <l>
+                     <hi>Likewise the Counter, that same lively doth</hi>
+                  </l>
+                  <l>
+                     <hi>Figure our middle-age, or lusty youth.</hi>
+                  </l>
+                  <pb facs="tcp:101684:21"/>
+                  <l>
+                     <hi>And then the Base, the last of all the three,</hi>
+                  </l>
+                  <l>
+                     <hi>Deciphers forth our imbecillity.</hi>
+                  </l>
+                  <l>
+                     <hi>And as these three their severall parts doe beare</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋnto the treble, so 'tis very rare▪</hi>
+                  </l>
+                  <l>
+                     <hi>To thinke how men and women, great and small,</hi>
+                  </l>
+                  <l>
+                     <hi>Like to a treble Trumpet rise and fall.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Authors humble request to his Redeemer.</head>
+               <lg>
+                  <l>
+                     <hi>COver and hide my weake infirmity,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou that art cloth'd with might and Majesty;</hi>
+                  </l>
+                  <l>
+                     <hi>Extinguish all my sins out of thy sight,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou that dost decke thy selfe with glorious light,</hi>
+                  </l>
+                  <l>
+                     <hi>Even as with a garment, and dost spread</hi>
+                  </l>
+                  <l>
+                     <hi>The Heavens, muchlike a Curtaine ore our head▪</hi>
+                  </l>
+                  <l>
+                     <hi>Thou that dost lay, and beautifie the beames</hi>
+                  </l>
+                  <l>
+                     <hi>Of thy sweet Chamber, in the watry streames,</hi>
+                  </l>
+                  <l>
+                     <hi>Making the Clouds thy Chariot, and dost ride</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋpon the ayrie wings of Winde and Tide.</hi>
+                  </l>
+                  <l>
+                     <hi>Thou that dost make thy Angels to aspire,</hi>
+                  </l>
+                  <l>
+                     <hi>And all thy Ministers a flame of fire.</hi>
+                  </l>
+                  <l>
+                     <hi>Make me thy servant, that by them I may</hi>
+                  </l>
+                  <l>
+                     <hi>Observe till death, Jehovah's holiday.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101684:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
